@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+matplotlib
+notebook
+ipykernel
+sqlalchemy
+psycopg2
